@@ -1,2 +1,8 @@
 # brain-map-api
-The App is live on https://brain-map.herokuapp.com/
+https://brain-map.herokuapp.com/
+
+1.Clone this repo
+
+2.Run npm install
+
+3.Run npm start
